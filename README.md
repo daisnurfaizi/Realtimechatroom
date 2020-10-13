@@ -1,7 +1,7 @@
 
 
 ## About 
-    his application is a simple chat room application created using Laravel 8 and Vue.js.
+    This application is a simple chat room application created using Laravel 8 and Vue.js.
     Use pusher as real-time data for chat and laravel echo for listening to pusher
 
 
