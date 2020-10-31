@@ -4,9 +4,9 @@
     This application is a simple chat room application created using Laravel 8 and Vue.js.
     Using pusher as real-time data for chat and laravel echo for listening from pusher
 
-
-
-
+## Fiture
+    -Status Typing
+    -Status Online
 
 ## Requirements
 
